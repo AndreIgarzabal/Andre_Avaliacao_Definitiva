@@ -1,0 +1,20 @@
+#### AVALIAÇÃO ####
+
+# CRIAR UM DOCUMENTO HTML EM QUARTO
+# ISTO É, UMA PÁGINA DE INTERNET COM SEUS GRÁFICOS
+
+# 1o PASSO
+# INSTALAR O PACOTE QUARTO
+#install.packages('quarto')
+
+# 2o PASSO
+# CRIAR O DOCUMENTO ('RENDER')
+
+# 3o PASSO
+# EDITAR O ARQUIVO
+# ALTERAR O TITULO (title) PARA O SEU NOME
+## MODIFICAR A PARTE (R chunk) DAS BIBLIOTECAS
+## ADICIONAR O CARREGAMENTO DOS DADOS
+
+install.packages("gifski")
+install.packages("transformr")
